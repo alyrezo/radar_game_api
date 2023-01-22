@@ -53,8 +53,8 @@
 [[{"id":307,"game_id":248,"server_id":"EU","ip":"185.116.156.173","created_at":"2022-12-20T21:15:52.000000Z","updated_at":"2022-12-20T21:15:52.000000Z","deleted_at":null}]]
 ```
 ### Game server ping resaults
-Method :```GET``` 
-URL :```/{date:str}-{type:str}/{isp:str}/{game:int=248}```
+**Method:** ```GET``` </br>
+**URL:** ```/{date:str}-{type:str}/{isp:str}/{game:int=248}```
 
 ```python
 isp = ['IranCell-AS',
@@ -82,7 +82,8 @@ date = ['minute',
 ```
 ## Resault
 ### Your ping in game resault
-```GET``` ```/result-ping/{resault:int}```
+**Method:** `GET` </br>
+**URL:** ```/result-ping/{resault:int}```
 
 ## License
 `radar_game_api` is collected with 💚 by the [alyrezo](https://twitter.com/alyrezo)
