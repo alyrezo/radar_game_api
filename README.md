@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href='https://radar.game/#/games'>Radar Game</a> api
+  unofficial <a href='https://radar.game/#/games'>Radar Game</a> api documentation
   <br>
 </h1>
 
